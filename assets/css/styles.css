@@ -43,8 +43,7 @@ a.nav-item:hover {
 }
 
 .avatar{
-	height:200px;
-	border-radius: 50%;
+	height:150px;
 }
 
 .intro-description{
@@ -117,6 +116,9 @@ a.nav-item:hover {
 
 	.nav-toggle span:hover {
 		background-color: #fff;
+	}
+	.avatar{
+		height:100px;
 	}
 
 }
