@@ -17,12 +17,12 @@
 <body>
 	<!-- Navbar -->
 	<nav class="nav container void-background">
-		<div class="nav-left">
+        <div class="nav-left">
 				<a href="https://www.linkedin.com/in/marcus-vinicius-suarez-pmp-cbpp-71179a49/" class="nav-item">
 					<span class="icon">
 						<i class="fa fa-linkedin"></i>
 					</span>
-				</a>
+			    </a>
 		<div class="nav-right nav-menu">
 			<a class="nav-item" href="#quemsomos">Quem somos</a>
 			<a class="nav-item" href="#projetos">Projetos</a>
@@ -51,24 +51,24 @@
 		<div class="container">
 			<div class="project-has-text-centered">
 				<h3 class="title is-3">Quem somos</h3>
-				<p>A Suarez Consultoria em Logistica foi fundada com o intuito de prover serviços de consultoria e capacitação em logística
-				world class à empresas, para diversos segmentos de distribuidores, atacadistas, varejistas e comércio. Nossa equipe de
-				consultores é constituída de profissionais altamente integrados com o mundo corporativo, desta forma, esta equipe é treinada
-				e qualificada para identificar e implementar soluções práticas e competitivas em nossos clientes. Contamos com modernas
-				e eficazes ferramentas de gestão, completos bancos de dados e parcerias estrategicamente selecionadas para objetivar
-				a solução completa a nossos clientes. Seguramente temos um ótimo custo / benefício. Somos o caminho mais curto entre
-				a sua empresa e as melhores práticas em gestão da cadeia de suprimentos. Trabalhamos com o intuito de gerar reais economias
-				aos nossos clientes. Contamos com uma vasta experiência em Supply Chain Management. Portanto, a Suarez Consultoria é
-				uma empresa especializada em trazer soluções em Logística e Supply Chain Management desde o projeto, incluindo a capacitação
-				até a implementação de soluções organizacionais, passando por um amplo processo de transferência tecnológica. Todo projeto
-				de desenvolvimento organizacional conduzido pela Suarez Consultoria envolve os conceitos mais amplos de supply chain
-				management, de gestão por processos, de lean logistics, de planejamento e gestão da qualidade, de gestão estratégica,
-				de customer services. As funções logística atuam e influenciam nos processos básicos da organização e no principal fluxo
-				de informações. Desta forma, a necessidade de expor e esclarecer aos profissionais da área os aspectos organizacionais
-				e profissionais é de grande importância para o alcance dos resultados corporativos esperados. Para projetos técnicos,
-				nossa metodologia de serviços de assessoria técnica especializada em logística e supply chain, voltados para a obtenção
-				de resultados mensuráveis, com benefícios de curto e médio prazo, através do mapeamento de cenários e da definição e
-				implementação de ações investimento de capital com excelente custo benefício.</p>
+				A Suarez Consultoria em Logistica foi fundada com o intuito de prover serviços de consultoria e capacitação em logística
+				à empresas, para diversos segmentos de distribuidores, atacadistas, varejistas e comércio. Nossa equipe de consultores 
+				é constituída de profissionais altamente integrados com o mundo corporativo, desta forma, esta equipe é treinada
+				e qualificada para identificar e implementar soluções práticas e competitivas em nossos clientes. 
+				<br />
+				<br />
+				Contamos com modernas e eficazes ferramentas de gestão e parcerias estrategicamente selecionadas para objetivar a solução 
+				completa a nossos clientes. Seguramente temos um ótimo custo / benefício. Somos o caminho mais curto entre a sua empresa e 
+				as melhores práticas em gestão da cadeia de suprimentos. Trabalhamos com o intuito de gerar reais economias aos nossos clientes. 
+				<br />
+				<br />
+				Portanto, a Suarez Consultoria é uma empresa especializada em trazer soluções em Logística e Supply Chain Management desde o projeto, 
+				incluindo a capacitação até a implementação de soluções organizacionais, passando por um amplo processo de transferência tecnológica. 
+				<br />
+				<br />
+			    As funções da logística atuam e influenciam nos processos básicos da organização e no principal fluxo de informações. Para projetos técnicos, 
+			    nossa metodologia de serviços de assessoria técnica especializada em logística, voltados para a obtenção de resultados mensuráveis, com 
+			    benefícios de curto e médio prazo, através do mapeamento de cenários.
 
 			</div>
 		</div>
@@ -77,25 +77,22 @@
 	<!-- Projetos -->
 	<section id="projetos" class="section section-3">
 		<div class="container">
-			<h3 class="title is-3">Projetos Técnicos</h3>
+			<h3 class="title is-3">Consultoria Logística</h3> 
 			<div class="social-has-text-centered">
 				<ul class="social-has-text-centered">
-					<li>Mapeamento de processos logísticos e de cadeias de abastecimento.</li>
+					<li>Mapeamento de processos logísticos.</li>
 					<br/>
-					<li>Melhoria dos processos logísticos, tais como, gerenciamento de pedidos, gestão de inventário e previsão de demanda.</li>
+					<li>Melhoria dos processos logísticos, tais como, dimensionamento do picking, gerenciamento de pedidos e gestão de inventário.</li>
 					<br/>
-					<li>Criação e implementação de Key Performance Indicators (KPIs)– indicadores de performance</li>
+					<li>Criação e gestão de indicadores de performance.</li>
 					<br/>
-					<li>Elaboração de projetos logísticos de armazenagem e transportes.</li>
+					<li>Elaboração de projetos logísticos de armazenagem.</li>
 					<br/>
-					<li>Desenvolvimento, acompanhamento da implementação de projetos logísticos </li>
+					<li>Acessória e adequação do CD na implementação do Software WMS.</li>
 					<br/>
-					<li>Acessória na implementação de ferramentas de gestão (TMS, WMS, ERP)</li>
+					<li>Otimização de layout de armazéns.</li>
 					<br/>
-					<li>Otimização de layout de armazéns</li>
-					<br/>
-					<li>Logística Integrada Diagnósticos de estoques Metodologia para Inventário cíclico com objetivo de acuracidade Desenvolvimento
-						e implantação de indicadores de gestão</li>
+					<li>Planejamento e gestão de Inventário, com objetivo de acuracidade.</li>
 					<br/>
 					<li>Automação de armazém Desenvolvimento de mapas de processo e procedimentos</li>
 					<br/>
@@ -109,8 +106,8 @@
 	<!-- Footer -->
 	<section id="contato" class="section-4 container">
 		<div class="container has-text-centered">
-			<i class="material-icons">email</i> marcus@suarezconsultoria.com.br <br />
-			<i class="material-icons">phone</i> (51) 99670 3904 <br />
+			<i class="material-icons">email</i> contato@suarezconsultoria.com.br <br />
+			<i class="material-icons">phone</i> (51) 99670-3904 <br />
 			<i class="material-icons">business_center</i> Porto Alegre - RS
 		</div>
 	</section>

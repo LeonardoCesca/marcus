@@ -72,7 +72,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #003D70;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -89,7 +89,6 @@ a.nav-item:hover {
 
 .project-has-text-centered{
 	text-align: justify;
-	
 }
 
 .social-has-text-centered {
