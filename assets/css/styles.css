@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #063647; 
+	background-color: #003D70; 
 }
 
 a {
@@ -22,16 +22,16 @@ section{
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #FF7300;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #FF7300;
 }
 
 .section-4 {
-	background-color: #063647;
-	padding: 0.2rem;
+	background-color: #003D70;
+	padding: 15px;
 }
 
 a.nav-item {
@@ -88,7 +88,8 @@ a.nav-item:hover {
 }
 
 .project-has-text-centered{
-	text-align: left;
+	text-align: justify;
+	
 }
 
 .social-has-text-centered {

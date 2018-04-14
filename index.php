@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Portfolio Marcus</title>
+	<title>Suarez Consultoria</title>
 	<!-- css files -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
@@ -17,7 +17,12 @@
 <body>
 	<!-- Navbar -->
 	<nav class="nav container void-background">
-
+		<div class="nav-left">
+				<a href="https://www.linkedin.com/in/marcus-vinicius-suarez-pmp-cbpp-71179a49/" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-linkedin"></i>
+					</span>
+				</a>
 		<div class="nav-right nav-menu">
 			<a class="nav-item" href="#quemsomos">Quem somos</a>
 			<a class="nav-item" href="#projetos">Projetos</a>
@@ -46,7 +51,7 @@
 		<div class="container">
 			<div class="project-has-text-centered">
 				<h3 class="title is-3">Quem somos</h3>
-				A Suarez Consultoria em Logistica foi fundada com o intuito de prover serviços de consultoria e capacitação em logística
+				<p>A Suarez Consultoria em Logistica foi fundada com o intuito de prover serviços de consultoria e capacitação em logística
 				world class à empresas, para diversos segmentos de distribuidores, atacadistas, varejistas e comércio. Nossa equipe de
 				consultores é constituída de profissionais altamente integrados com o mundo corporativo, desta forma, esta equipe é treinada
 				e qualificada para identificar e implementar soluções práticas e competitivas em nossos clientes. Contamos com modernas
@@ -63,7 +68,7 @@
 				e profissionais é de grande importância para o alcance dos resultados corporativos esperados. Para projetos técnicos,
 				nossa metodologia de serviços de assessoria técnica especializada em logística e supply chain, voltados para a obtenção
 				de resultados mensuráveis, com benefícios de curto e médio prazo, através do mapeamento de cenários e da definição e
-				implementação de ações investimento de capital com excelente custo benefício.
+				implementação de ações investimento de capital com excelente custo benefício.</p>
 
 			</div>
 		</div>
@@ -104,8 +109,8 @@
 	<!-- Footer -->
 	<section id="contato" class="section-4 container">
 		<div class="container has-text-centered">
-			<i class="material-icons">email</i> marcus@suarezconsultoria.com.br&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<i class="material-icons">phone</i> (51) 99670 3904&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<i class="material-icons">email</i> marcus@suarezconsultoria.com.br <br />
+			<i class="material-icons">phone</i> (51) 99670 3904 <br />
 			<i class="material-icons">business_center</i> Porto Alegre - RS
 		</div>
 	</section>
